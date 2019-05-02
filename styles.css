@@ -4,6 +4,9 @@
     perspective: 1000px;
     overflow: hidden;
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+
 }
 
 .drop {
